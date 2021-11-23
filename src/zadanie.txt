@@ -1,0 +1,7 @@
+Stwórz nową aplikację, która będzie posiadała główny komponent App Napisz komponent Button, który będzie przechowywał element HTML button. Domyślnie tło będzie niebieskie. Po załadowaniu aplikacji, niech przycisk zmieni swój kolor tła na czerwony, a kolor tekstu na biały. Zaprogramuj to w komponencie Button za pomocą refów.
+
+Modyfikacja 1
+Zmień sposób zmiany koloru. Niech kolor już nie zmienia się po załadowaniu aplikacji, a po najechaniu myszką.
+
+Modyfikacja 2
+Przenieś logikę odpowiedzialną za zmianę koloru do komponentu nadrzędnego, czy App. Tips: skorzystaj z forwardRef
